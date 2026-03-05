@@ -127,8 +127,8 @@ Crie um arquivo `.env` na raiz do projeto.
 ```
 S3_BUCKET=bkt-dev1-data-avaliacoes
 AWS_REGION=sa-east-1
-AWS_ACCESS_KEY_ID=<credencial_fornecida>
-AWS_SECRET_ACCESS_KEY=<credencial_fornecida>
+AWS_ACCESS_KEY_ID=<segue no email>
+AWS_SECRET_ACCESS_KEY=<segue no email>
 
 DADOS_ENTRADA_XLSX=dados/dados_entrada.xlsx
 
