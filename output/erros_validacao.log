@@ -1,0 +1,800 @@
+2026-03-02 17:34:36 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 17:34:36 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 17:34:36 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 17:34:36 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 17:34:36 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 17:34:36 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:34:36 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 17:35:24 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-02 17:35:24 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-02 17:35:24 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-02 17:35:24 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-02 17:35:24 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-02 17:35:24 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 17:38:42 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:38:42 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 17:42:05 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 17:42:05 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 17:42:05 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 17:42:05 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 17:42:05 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 17:42:05 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:42:05 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 17:44:58 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 17:44:58 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 17:44:58 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 17:44:58 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 17:44:58 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 17:44:58 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:44:58 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 17:57:06 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 17:57:06 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 17:57:06 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 17:57:06 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 17:57:06 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 17:57:06 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 17:57:06 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:05:03 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:05:03 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:05:03 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:05:03 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:05:03 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:05:03 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:05:03 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:10:39 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:10:39 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:10:39 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:10:39 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:10:39 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:10:39 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:10:39 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:16:30 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:16:30 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:16:30 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:16:30 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:16:30 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:16:30 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:16:30 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:30:28 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:30:28 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:30:28 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:30:28 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:30:28 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:30:28 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:30:28 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:34:44 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:34:44 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:34:44 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:34:44 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:34:44 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:34:44 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:34:44 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:37:15 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:37:15 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:37:15 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:37:15 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:37:15 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:37:15 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:37:15 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 18:40:09 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 18:40:09 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 18:40:09 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 18:40:09 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 18:40:09 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 18:40:09 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 18:40:09 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 19:46:06 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 19:46:06 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 19:46:06 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 19:46:06 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 19:46:06 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 19:46:06 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 19:46:06 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 19:49:02 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 19:49:02 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 19:49:02 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 19:49:02 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 19:49:02 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 19:49:02 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 19:49:02 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:01:57 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:01:57 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:01:57 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:01:57 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:01:57 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:01:57 - Linha: 105 - Campo: nome - Valor: None - Motivo: nulo_vazio
+2026-03-02 20:04:26 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:04:26 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:04:26 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:04:26 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:04:26 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:04:26 - Linha: 105 - Campo: nome - Valor: None - Motivo: nulo_vazio
+2026-03-02 20:04:43 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:04:43 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:04:43 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:04:43 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:04:43 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:04:43 - Linha: 105 - Campo: nome - Valor: None - Motivo: nulo_vazio
+2026-03-02 20:20:44 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:20:44 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:20:44 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:20:44 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:20:44 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:20:44 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:20:44 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:28:45 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:28:45 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:28:45 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:28:45 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:28:45 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:28:45 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:28:45 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:30:30 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:30:30 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:30:30 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:30:30 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:30:30 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:30:30 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:30:30 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:33:54 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:33:54 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:33:54 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:33:54 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:33:54 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:33:54 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:33:54 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:37:57 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:37:57 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:37:57 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:37:57 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:37:57 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:37:57 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:37:57 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-02 20:39:35 - Linha: 5 - Campo: email - Valor: nan - Motivo: formato_invalido
+2026-03-02 20:39:35 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-02 20:39:35 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-02 20:39:35 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-02 20:39:35 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-02 20:39:35 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-02 20:39:35 - Linha: 105 - Campo: nome - Valor: nan - Motivo: nulo_vazio
+2026-03-04 18:25:37 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:25:37 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:25:37 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:25:37 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:25:37 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:25:37 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:25:37 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:41:34 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:41:34 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:41:34 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:41:34 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:41:34 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:41:34 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:41:34 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:47:48 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:47:48 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:47:48 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:47:48 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:47:48 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:47:48 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:47:48 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:51:28 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:51:28 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:51:28 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:51:28 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:51:28 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:51:28 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:51:28 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:52:53 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:52:53 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:52:53 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:52:53 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:52:53 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:52:53 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:52:53 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:55:28 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:55:28 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:55:28 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:55:28 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:55:28 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:55:28 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:55:28 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 18:56:43 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 18:56:43 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 18:56:43 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 18:56:43 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 18:56:43 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 18:56:43 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 18:56:43 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 19:00:55 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 19:00:55 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 19:00:55 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 19:00:55 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 19:00:55 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 19:00:55 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:00:55 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 19:02:11 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 19:02:11 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 19:02:11 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 19:02:11 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 19:02:11 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 19:02:11 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 19:03:28 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:03:28 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 19:04:38 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 19:04:38 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 19:04:38 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 19:04:38 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 19:04:38 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 19:04:38 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 19:37:35 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:37:35 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 19:38:23 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 19:38:23 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 19:38:23 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 19:38:23 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 19:38:23 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 19:38:23 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 19:42:20 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 19:42:20 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 19:43:08 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 19:43:08 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 19:43:08 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 19:43:08 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 19:43:08 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 19:43:08 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 21:50:34 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 21:50:34 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 21:51:07 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 21:51:07 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 21:51:07 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 21:51:07 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 21:51:07 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 21:51:07 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida
+2026-03-04 21:54:31 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+2026-03-04 21:54:31 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio
+2026-03-04 21:55:04 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido
+2026-03-04 21:55:04 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido
+2026-03-04 21:55:04 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido
+2026-03-04 21:55:04 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe
+2026-03-04 21:55:04 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio
+2026-03-04 21:55:04 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de clientes
+INFO:root:Registrando erros encontrados durante a validaÁ„o...
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:py4j.clientserver:Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:root:Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Error while receiving.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\pyspark\context.py", line 381, in signal_handler
+    self.cancelAllJobs()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\pyspark\context.py", line 2446, in cancelAllJobs
+    self._jsc.sc().cancelAllJobs()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1321, in __call__
+    answer = self.gateway_client.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1053, in send_command
+    response = self.send_command(command, binary=binary)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1036, in send_command
+    connection = self._get_connection()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 284, in _get_connection
+    connection = self._create_new_connection()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 291, in _create_new_connection
+    connection.connect_to_java_server()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 438, in connect_to_java_server
+    self.socket.connect((self.java_address, self.java_port))
+ConnectionRefusedError: [WinError 10061] Nenhuma conex„o pÙde ser feita porque a m·quina de destino as recusou ativamente
+INFO:py4j.clientserver:Closing down clientserver connection
+ERROR:root:Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\pyspark\context.py", line 381, in signal_handler
+    self.cancelAllJobs()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\pyspark\context.py", line 2446, in cancelAllJobs
+    self._jsc.sc().cancelAllJobs()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1321, in __call__
+    answer = self.gateway_client.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1053, in send_command
+    response = self.send_command(command, binary=binary)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1036, in send_command
+    connection = self._get_connection()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 284, in _get_connection
+    connection = self._create_new_connection()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 291, in _create_new_connection
+    connection.connect_to_java_server()
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 438, in connect_to_java_server
+    self.socket.connect((self.java_address, self.java_port))
+ConnectionRefusedError: [WinError 10061] Nenhuma conex„o pÙde ser feita porque a m·quina de destino as recusou ativamente
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 539, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending or receiving
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:root:Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] Foi forÁado o cancelamento de uma conex„o existente pelo host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\thiag\AppData\Local\Programs\Python\Python39\lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de clientes
+INFO:root:Registrando erros encontrados durante a validaÁ„o...
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de endereÁos
+INFO:root:Registrando erros encontrados durante a validaÁ„o...
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de clientes na camada stage
+INFO:root:Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de clientes
+INFO:root:Executando: ValidaÁ„o de Clientes...
+INFO:root:ValidaÁ„o de Clientes executada com sucesso!
+INFO:root:Registrando erros encontrados durante a validaÁ„o...
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de endereÁos
+INFO:root:Executando: ValidaÁ„o de EndereÁos...
+INFO:root:ValidaÁ„o de EndereÁos executada com sucesso!
+INFO:root:Registrando erros encontrados durante a validaÁ„o...
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de clientes na camada stage
+INFO:root:Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+INFO:root:Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/
+INFO:root:InÌcio do processo de validaÁ„o e carga dos dados de endereÁos na camada stage
+INFO:root:Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/
+INFO:root:Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/
+INFO:root:InÌcio do processo de criaÁ„o da camada analytics
+INFO:root:Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/
+INFO:root:Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/
+INFO:root:Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/
+INFO:root:InÌcio do processo de criaÁ„o do crawler no AWS Glue
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:root:Crawler j· existe
+INFO:root:Crawler iniciado
+INFO:root:Processo finalizado com sucesso!
+INFO:py4j.clientserver:Closing down clientserver connection
+2026-03-04 22:19:44 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de valida√ß√£o e carga dos dados de clientes
+2026-03-04 22:19:46 - Linha: - - Campo: - - Valor: - - Motivo: - - Executando: Valida√ß√£o de Clientes...
+2026-03-04 22:19:46 - Linha: - - Campo: - - Valor: - - Motivo: - - Valida√ß√£o de Clientes executada com sucesso!
+2026-03-04 22:19:46 - Linha: - - Campo: - - Valor: - - Motivo: - - Registrando erros encontrados durante a valida√ß√£o...
+2026-03-04 22:19:54 - Linha: 5 - Campo: email - Valor: NaN - Motivo: formato_invalido - 
+2026-03-04 22:19:54 - Linha: 100 - Campo: cpf - Valor: 12345678910 - Motivo: formato_invalido - 
+2026-03-04 22:19:54 - Linha: 101 - Campo: email - Valor: invalido_email - Motivo: formato_invalido - 
+2026-03-04 22:19:54 - Linha: 102 - Campo: status - Valor: pendente - Motivo: formato_invalido - 
+2026-03-04 22:19:54 - Linha: 103 - Campo: data_nascimento - Valor: 01/01/1990 - Motivo: invalida - 
+2026-03-04 22:19:54 - Linha: 104 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido - 
+2026-03-04 22:19:54 - Linha: 105 - Campo: nome - Valor: NaN - Motivo: nulo_vazio - 
+2026-03-04 22:20:15 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+2026-03-04 22:20:15 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de valida√ß√£o e carga dos dados de endere√ßos
+2026-03-04 22:20:15 - Linha: - - Campo: - - Valor: - - Motivo: - - Executando: Valida√ß√£o de Endere√ßos...
+2026-03-04 22:20:15 - Linha: - - Campo: - - Valor: - - Motivo: - - Valida√ß√£o de Endere√ßos executada com sucesso!
+2026-03-04 22:20:15 - Linha: - - Campo: - - Valor: - - Motivo: - - Registrando erros encontrados durante a valida√ß√£o...
+2026-03-04 22:20:29 - Linha: 9001 - Campo: cep - Valor: 01310100 - Motivo: formato_invalido - 
+2026-03-04 22:20:29 - Linha: 9002 - Campo: cep - Valor: 1310100 - Motivo: formato_invalido - 
+2026-03-04 22:20:29 - Linha: 9002 - Campo: estado - Valor: SPP - Motivo: formato_invalido - 
+2026-03-04 22:20:29 - Linha: 9003 - Campo: id_cliente - Valor: 999 - Motivo: nao_existe - 
+2026-03-04 22:20:29 - Linha: 9004 - Campo: campos - Valor: NULL - Motivo: nulo_ou_vazio - 
+2026-03-04 22:20:29 - Linha: 9006 - Campo: data_evento - Valor: 2024-01-10 - Motivo: formato_invalido - 
+2026-03-04 22:20:56 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/
+2026-03-04 22:20:56 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de valida√ß√£o e carga dos dados de clientes na camada stage
+2026-03-04 22:20:56 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/
+2026-03-04 22:21:06 - Linha: - - Campo: - - Valor: - - Motivo: - - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/
+2026-03-04 22:21:06 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de valida√ß√£o e carga dos dados de endere√ßos na camada stage
+2026-03-04 22:21:07 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/
+2026-03-04 22:21:11 - Linha: - - Campo: - - Valor: - - Motivo: - - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/
+2026-03-04 22:21:11 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de cria√ß√£o da camada analytics
+2026-03-04 22:21:11 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/
+2026-03-04 22:21:12 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/
+2026-03-04 22:21:19 - Linha: - - Campo: - - Valor: - - Motivo: - - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/
+2026-03-04 22:21:19 - Linha: - - Campo: - - Valor: - - Motivo: - - In√≠cio do processo de cria√ß√£o do crawler no AWS Glue
+2026-03-04 22:21:19 - Linha: - - Campo: - - Valor: - - Motivo: - - Crawler j√° existe
+2026-03-04 22:21:20 - Linha: - - Campo: - - Valor: - - Motivo: - - Crawler iniciado
+2026-03-04 22:21:20 - Linha: - - Campo: - - Valor: - - Motivo: - - Processo finalizado com sucesso!
+2026-03-04 22:22:23 - In√≠cio do processo de valida√ß√£o e carga dos dados de clientes  -  -  - 
+2026-03-04 22:22:24 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 22:22:25 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 22:22:25 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:22:32 -  5 - email - NaN - formato_invalido
+2026-03-04 22:22:32 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 22:22:32 -  101 - email - invalido_email - formato_invalido
+2026-03-04 22:22:32 -  102 - status - pendente - formato_invalido
+2026-03-04 22:22:32 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 22:22:32 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:22:32 -  105 - nome - NaN - nulo_vazio
+2026-03-04 22:22:53 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:22:53 - In√≠cio do processo de valida√ß√£o e carga dos dados de endere√ßos  -  -  - 
+2026-03-04 22:22:53 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 22:22:53 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 22:22:53 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:23:06 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 22:23:06 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 22:23:06 -  9002 - estado - SPP - formato_invalido
+2026-03-04 22:23:06 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 22:23:06 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 22:23:06 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:23:32 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:23:32 - In√≠cio do processo de valida√ß√£o e carga dos dados de clientes na camada stage  -  -  - 
+2026-03-04 22:23:33 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:23:42 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:23:42 - In√≠cio do processo de valida√ß√£o e carga dos dados de endere√ßos na camada stage  -  -  - 
+2026-03-04 22:23:43 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:23:47 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:23:47 - In√≠cio do processo de cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 22:23:48 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:23:48 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:23:55 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 22:23:55 - In√≠cio do processo de cria√ß√£o do crawler no AWS Glue  -  -  - 
+2026-03-04 22:23:55 - Crawler j√° existe  -  -  - 
+2026-03-04 22:23:56 - Crawler iniciado  -  -  - 
+2026-03-04 22:23:56 - Processo finalizado com sucesso!  -  -  - 
+2026-03-04 22:28:31 - Iniciando leitura da planilha clientes  -  -  - 
+2026-03-04 22:28:33 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 22:28:33 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 22:28:33 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:28:41 -  5 - email - NaN - formato_invalido
+2026-03-04 22:28:41 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 22:28:41 -  101 - email - invalido_email - formato_invalido
+2026-03-04 22:28:41 -  102 - status - pendente - formato_invalido
+2026-03-04 22:28:41 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 22:28:41 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:28:41 -  105 - nome - NaN - nulo_vazio
+2026-03-04 22:29:02 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:29:02 - Processamento da tabela clientes finalizado  -  -  - 
+2026-03-04 22:29:02 - Iniciando leitura da planilha enderecos  -  -  - 
+2026-03-04 22:29:02 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 22:29:02 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 22:29:02 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:29:16 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 22:29:16 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 22:29:16 -  9002 - estado - SPP - formato_invalido
+2026-03-04 22:29:16 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 22:29:16 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 22:29:16 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:29:42 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:29:42 - Processamento da tabela enderecos finalizado  -  -  - 
+2026-03-04 22:29:42 - Iniciando processamento da tabela clientes na camada raw  -  -  - 
+2026-03-04 22:29:42 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:29:52 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:29:52 - Tabela clientes processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:29:52 - Iniciando processamento da tabela enderecos na camada raw  -  -  - 
+2026-03-04 22:29:53 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:29:58 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:29:58 - Tabela enderecos processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:29:58 - Iniciando cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 22:29:58 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:29:58 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:30:05 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 22:30:05 - Camada analytics criada com sucesso  -  -  - 
+2026-03-04 22:30:06 - Crawler j√° existe  -  -  - 
+2026-03-04 22:30:06 - Crawler iniciado  -  -  - 
+2026-03-04 22:35:11 - Iniciando leitura da planilha clientes  -  -  - 
+2026-03-04 22:35:12 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 22:35:13 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 22:35:13 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:35:21 -  5 - email - NaN - formato_invalido
+2026-03-04 22:35:21 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 22:35:21 -  101 - email - invalido_email - formato_invalido
+2026-03-04 22:35:21 -  102 - status - pendente - formato_invalido
+2026-03-04 22:35:21 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 22:35:21 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:35:21 -  105 - nome - NaN - nulo_vazio
+2026-03-04 22:35:42 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:35:42 - Processamento da tabela clientes finalizado  -  -  - 
+2026-03-04 22:35:42 - Iniciando leitura da planilha enderecos  -  -  - 
+2026-03-04 22:35:42 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 22:35:42 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 22:35:42 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:35:57 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 22:35:57 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 22:35:57 -  9002 - estado - SPP - formato_invalido
+2026-03-04 22:35:57 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 22:35:57 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 22:35:57 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:36:23 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:36:23 - Processamento da tabela enderecos finalizado  -  -  - 
+2026-03-04 22:36:23 - Iniciando processamento da tabela clientes na camada raw  -  -  - 
+2026-03-04 22:36:23 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:36:36 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:36:36 - Tabela clientes processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:36:36 - Iniciando processamento da tabela enderecos na camada raw  -  -  - 
+2026-03-04 22:36:36 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:36:42 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:36:42 - Tabela enderecos processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:36:42 - Iniciando cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 22:36:43 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:36:43 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:36:52 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 22:36:52 - Camada analytics criada com sucesso  -  -  - 
+2026-03-04 22:36:53 - Crawler j√° existe  -  -  - 
+2026-03-04 22:36:53 - Crawler iniciado  -  -  - 
+2026-03-04 22:48:16 - Iniciando leitura da planilha clientes  -  -  - 
+2026-03-04 22:48:18 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 22:48:18 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 22:48:18 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:48:22 -  5 - email - NaN - formato_invalido
+2026-03-04 22:48:24 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 22:48:25 -  101 - email - invalido_email - formato_invalido
+2026-03-04 22:48:25 -  102 - status - pendente - formato_invalido
+2026-03-04 22:48:26 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 22:48:26 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:48:27 -  105 - nome - NaN - nulo_vazio
+2026-03-04 22:48:47 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:48:47 - Processamento da tabela clientes finalizado  -  -  - 
+2026-03-04 22:48:47 - Iniciando leitura da planilha enderecos  -  -  - 
+2026-03-04 22:48:47 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 22:48:48 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 22:48:48 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:48:59 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 22:49:00 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 22:49:00 -  9002 - estado - SPP - formato_invalido
+2026-03-04 22:49:00 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 22:49:01 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 22:49:02 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:49:28 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:49:28 - Processamento da tabela enderecos finalizado  -  -  - 
+2026-03-04 22:49:28 - Iniciando processamento da tabela clientes na camada raw  -  -  - 
+2026-03-04 22:49:29 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:49:40 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:49:40 - Tabela clientes processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:49:40 - Iniciando processamento da tabela enderecos na camada raw  -  -  - 
+2026-03-04 22:49:40 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:49:46 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:49:46 - Tabela enderecos processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:49:46 - Iniciando cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 22:49:46 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:49:46 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:49:56 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 22:49:56 - Camada analytics criada com sucesso  -  -  - 
+2026-03-04 22:49:57 - Crawler j√° existe  -  -  - 
+2026-03-04 22:49:57 - Crawler iniciado  -  -  - 
+2026-03-04 22:54:43 - Iniciando leitura da planilha clientes  -  -  - 
+2026-03-04 22:54:45 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 22:54:45 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 22:54:45 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:54:48 -  5 - email - NaN - formato_invalido
+2026-03-04 22:54:51 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 22:54:51 -  101 - email - invalido_email - formato_invalido
+2026-03-04 22:54:52 -  102 - status - pendente - formato_invalido
+2026-03-04 22:54:52 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 22:54:53 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:54:53 -  105 - nome - NaN - nulo_vazio
+2026-03-04 22:55:13 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:55:13 - Processamento da tabela clientes finalizado  -  -  - 
+2026-03-04 22:55:13 - Iniciando leitura da planilha enderecos  -  -  - 
+2026-03-04 22:55:13 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 22:55:13 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 22:55:13 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 22:55:25 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 22:55:25 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 22:55:25 -  9002 - estado - SPP - formato_invalido
+2026-03-04 22:55:26 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 22:55:26 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 22:55:27 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 22:55:54 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:55:54 - Processamento da tabela enderecos finalizado  -  -  - 
+2026-03-04 22:55:54 - Iniciando processamento da tabela clientes na camada raw  -  -  - 
+2026-03-04 22:55:55 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 22:56:08 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:56:08 - Tabela clientes processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:56:08 - Iniciando processamento da tabela enderecos na camada raw  -  -  - 
+2026-03-04 22:56:09 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 22:56:15 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:56:15 - Tabela enderecos processada com sucesso na camada stage  -  -  - 
+2026-03-04 22:56:15 - Iniciando cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 22:56:15 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 22:56:15 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 22:56:22 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 22:56:22 - Camada analytics criada com sucesso  -  -  - 
+2026-03-04 22:56:23 - Crawler j√° existe  -  -  - 
+2026-03-04 22:56:23 - Crawler iniciado  -  -  - 
+2026-03-04 23:04:02 - Iniciando leitura da planilha clientes  -  -  - 
+2026-03-04 23:04:04 - Executando: Valida√ß√£o de Clientes...  -  -  - 
+2026-03-04 23:04:05 - Valida√ß√£o de Clientes executada com sucesso!  -  -  - 
+2026-03-04 23:04:05 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 23:04:09 -  5 - email - NaN - formato_invalido
+2026-03-04 23:04:11 -  100 - cpf - 12345678910 - formato_invalido
+2026-03-04 23:04:12 -  101 - email - invalido_email - formato_invalido
+2026-03-04 23:04:12 -  102 - status - pendente - formato_invalido
+2026-03-04 23:04:13 -  103 - data_nascimento - 01/01/1990 - invalida
+2026-03-04 23:04:13 -  104 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 23:04:14 -  105 - nome - NaN - nulo_vazio
+2026-03-04 23:04:35 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 23:04:35 - Processamento da tabela clientes finalizado  -  -  - 
+2026-03-04 23:04:35 - Iniciando leitura da planilha enderecos  -  -  - 
+2026-03-04 23:04:35 - Executando: Valida√ß√£o de Endere√ßos...  -  -  - 
+2026-03-04 23:04:35 - Valida√ß√£o de Endere√ßos executada com sucesso!  -  -  - 
+2026-03-04 23:04:35 - Registrando erros encontrados durante a valida√ß√£o...  -  -  - 
+2026-03-04 23:04:49 -  9001 - cep - 01310100 - formato_invalido
+2026-03-04 23:04:49 -  9002 - cep - 1310100 - formato_invalido
+2026-03-04 23:04:49 -  9002 - estado - SPP - formato_invalido
+2026-03-04 23:04:50 -  9003 - id_cliente - 999 - nao_existe
+2026-03-04 23:04:50 -  9004 - campos - NULL - nulo_ou_vazio
+2026-03-04 23:04:51 -  9006 - data_evento - 2024-01-10 - formato_invalido
+2026-03-04 23:05:18 - Dados salvos na etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 23:05:18 - Processamento da tabela enderecos finalizado  -  -  - 
+2026-03-04 23:05:18 - Iniciando processamento da tabela clientes na camada raw  -  -  - 
+2026-03-04 23:05:18 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/clientes/  -  -  - 
+2026-03-04 23:05:29 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 23:05:29 - Tabela clientes processada com sucesso na camada stage  -  -  - 
+2026-03-04 23:05:29 - Iniciando processamento da tabela enderecos na camada raw  -  -  - 
+2026-03-04 23:05:30 - Dados lidos da etapa 'raw' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/raw/enderecos/  -  -  - 
+2026-03-04 23:05:35 - Merge realizado com sucesso em s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 23:05:35 - Tabela enderecos processada com sucesso na camada stage  -  -  - 
+2026-03-04 23:05:35 - Iniciando cria√ß√£o da camada analytics  -  -  - 
+2026-03-04 23:05:35 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/clientes/  -  -  - 
+2026-03-04 23:05:35 - Dados lidos da etapa 'stage' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/stage/enderecos/  -  -  - 
+2026-03-04 23:05:43 - Dados salvos na etapa 'analytics' no S3 em: s3a://bkt-dev1-data-avaliacoes/thiago_marasco/analytics/clientes/  -  -  - 
+2026-03-04 23:05:43 - Camada analytics criada com sucesso  -  -  - 
+2026-03-04 23:05:43 - Crawler j√° existe  -  -  - 
+2026-03-04 23:05:49 - Crawler iniciado  -  -  - 
