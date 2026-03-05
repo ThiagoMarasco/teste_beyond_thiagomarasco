@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📊 Data Pipeline – PySpark + AWS S3 + Delta Lake
 
 Pipeline de engenharia de dados desenvolvido em **Python + PySpark**, responsável por realizar ingestão, validação, transformação e disponibilização de dados em um **Data Lake no AWS S3** utilizando arquitetura em camadas.
