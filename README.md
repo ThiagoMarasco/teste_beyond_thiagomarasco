@@ -36,6 +36,7 @@ TesteBeyond/
 ├── .env
 ├── requirements.txt
 └── README.md
+
 📌 Arquitetura de Dados
 
 O pipeline segue o modelo Medallion Architecture:
@@ -52,6 +53,7 @@ STAGE (Delta Lake)
 ANALYTICS (Parquet otimizado)
      │
      ▼
+
 AWS Glue Catalog
 Camadas
 Camada	Descrição
