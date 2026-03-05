@@ -283,8 +283,3 @@ Logs registram:
 
 **Thiago Marasco**
 Engenheiro de Dados
-
-```
-
-Isso deixa seu projeto **muito mais profissional no GitHub**.
-```
