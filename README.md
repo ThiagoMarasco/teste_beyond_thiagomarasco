@@ -1,6 +1,3 @@
-Segue o **README completamente em Markdown**, pronto para colocar no `README.md` do repositório.
-
----
 
 ```markdown
 # 📊 Data Pipeline – PySpark + AWS S3 + Delta Lake
@@ -14,39 +11,6 @@ O pipeline também integra com **AWS Glue Crawler** para catalogação automáti
 # 🏗️ Arquitetura do Projeto
 
 O projeto segue uma arquitetura modular para facilitar **manutenção, escalabilidade e testes**.
-
-```
-
-TesteBeyond/
-│
-├── pipeline.py
-│
-├── src/
-│   ├── aws/
-│   │   └── crawler.py
-│   │
-│   ├── regras_negocio/
-│   │   └── transform.py
-│   │
-│   ├── utils/
-│   │   ├── functions.py
-│   │   └── logging_handler.py
-│
-├── consultas/
-│   ├── valida_clientes.sql
-│   └── valida_enderecos.sql
-│
-├── dados/
-│   └── dados_entrada.xlsx
-│
-├── tests/
-│   └── test_transform.py
-│
-├── .env
-├── requirements.txt
-└── README.md
-
-````
 
 ---
 
@@ -232,20 +196,25 @@ Esse script utiliza **boto3** para:
 ## Exemplo de criação do crawler
 
 ```python
-import boto3
-
-client = boto3.client("glue")
-
-client.create_crawler(
-    Name="crawler-data-pipeline",
-    Role="AWSGlueServiceRole",
-    DatabaseName="data_lake",
-    Targets={
-        "S3Targets": [
-            {"Path": "s3://bkt-dev1-data-avaliacoes/"}
-        ]
-    }
-)
+       glue.create_crawler(
+            Name=crawler_name,
+            Role=role_arn,
+            DatabaseName=database_name,
+            Targets={
+                "S3Targets": [
+                    {
+                        "Path": s3_target
+                    }
+                ]
+            },
+            SchemaChangePolicy={
+                "UpdateBehavior": "UPDATE_IN_DATABASE",
+                "DeleteBehavior": "DEPRECATE_IN_DATABASE"
+            },
+            RecrawlPolicy={
+                "RecrawlBehavior": "CRAWL_EVERYTHING"
+            }
+        )
 ```
 
 ---
@@ -327,14 +296,6 @@ Logs registram:
 
 ---
 
-# 🚀 Melhorias Futuras
-
-* Orquestração com **Apache Airflow**
-* CI/CD com **GitHub Actions**
-* Monitoramento com **CloudWatch**
-* Data Quality com **Great Expectations**
-
----
 
 # 👨‍💻 Autor
 
@@ -342,16 +303,6 @@ Logs registram:
 Engenheiro de Dados
 
 ```
-
----
-
-Se quiser, também posso te entregar uma versão **muito mais forte para portfólio / entrevista de Data Engineer** com:
-
-- **diagrama de arquitetura (AWS + Spark)**
-- **README nível projeto open-source**
-- **badges (Python, Spark, AWS, CI)**
-- **exemplo de output do pipeline**
-- **estrutura usada em empresas grandes**
 
 Isso deixa seu projeto **muito mais profissional no GitHub**.
 ```
