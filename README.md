@@ -18,24 +18,6 @@ O projeto segue uma arquitetura modular para facilitar **manutenção, escalabil
 
 O pipeline segue o modelo **Medallion Architecture**.
 
-```
-
-Excel Input
-│
-▼
-RAW (S3 - Parquet)
-│
-▼
-STAGE (Delta Lake)
-│
-▼
-ANALYTICS (Parquet otimizado)
-│
-▼
-AWS Glue Catalog
-
-````
-
 ## Camadas
 
 | Camada    | Descrição                                   |
